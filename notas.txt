@@ -11,3 +11,9 @@ vim index.html
 :w ---> Guardar
 :q ---> Salir
 :q! ---> salir de todo el directorio
+
+git add . --> agrega todos los archivos que estan untracked
+git add style.css ---> agrega un archivo en particular
+git commit -m ""---> para añadir mensaje
+git log ---> revisar los cambios realizados
+git init ---> entrar al master
