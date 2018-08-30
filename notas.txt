@@ -1,0 +1,13 @@
+N tamaño de poblacion
+n tamaño de la muestra
+
+tamaño para estimar una proporcion --> cualitativas
+tamaño de muestra para estimar una media --> cuantitativa
+
+en las carpetas .git se van a registrar todos los archivos
+git init ---> crear un directorio
+
+vim index.html
+:w ---> Guardar
+:q ---> Salir
+:q! ---> salir de todo el directorio
